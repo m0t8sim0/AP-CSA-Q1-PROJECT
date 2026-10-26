@@ -66,7 +66,6 @@ Purpose
 
 The purpose of this project is to practice Java programming concepts, including user input, variables, arithmetic calculations, type casting, compound assignment operators, and formatted console output.
 
-Author
+creator
 
 Mr.Mutasim Ahmed Mahmud
-Created as a Java programming project.
